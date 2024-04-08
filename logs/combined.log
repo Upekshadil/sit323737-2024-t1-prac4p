@@ -1,0 +1,6 @@
+{"level":"info","message":"Received GET request for /add?num1=5&num2=3 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /favicon.ico from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for / from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /favicon.ico from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /add?num1=a&num2=3 from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input parameters for addition","service":"calculator-microservice"}
